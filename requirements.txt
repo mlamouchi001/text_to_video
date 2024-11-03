@@ -1,0 +1,7 @@
+transformers
+openai
+gtts
+moviepy
+opencv-python
+torch
+diffusers
